@@ -26,10 +26,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eusouluanrodrigues/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com//)
 [![Twtich](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kouran/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](kouran001)
 
 
 <!-- GithubStats -->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eusouluanrodrigues&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eusouluanrodrigues&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="150" alt="languages graph"  />
@@ -41,4 +41,31 @@
 - 🚧 Em construção
 - 🚧 Em construção 
 - 🚧 Em construção
+
+<!-- GIF 
+<p align="center">
+  <img align="center" src="https://github.com/eusouluanrodrigues/eusouluanrodrigues/assets/136765935/102d000a-49e2-44fe-8aff-7393176c620b" alt="Imagem">
+</p>#
+-->
+
+## 🐱‍👤 Habilidades
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Estou aprendendo</h3>
+    <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css,js" />
+  </a>
+</p>
+  </div>
+
+<!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Ferramentas</h3>
+    <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,anaconda" />
+  </a>
+</p> 
+  </div>
 
