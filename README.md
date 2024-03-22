@@ -8,7 +8,7 @@
 <p>
   Olá 👋, sou o Luan Rodrigues! Um apaixonado estudante apaixonado por tecnologia no Brasil.
 
-  - 🌱 Atualmente estou estudando linguagem de programação Python.
+  - 🌱 Atualmente estou estudando Análise de dados | Python | BI - Desenvolvimento Web | HTML | CSS | JS.
   - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar usando meus conhecimentos em Python e IA.
 </p>
 
