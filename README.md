@@ -8,7 +8,7 @@
 <p>
   Olá 👋, sou o Luan Rodrigues! Um apaixonado estudante por tecnologias.
 
-  - 🌱 Atualmente estou estudando Análise de dados | Python | BI | Desenvolvimento Web | HTML | CSS | JS.
+  - 🌱 Atualmente estou estudando Python | Desenvolvimento Web | HTML | CSS | JS.
   - 🔭 Estou em busca de conhecimento.
 </p>
 
