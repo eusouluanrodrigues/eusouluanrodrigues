@@ -18,7 +18,7 @@
 
   - 💬 Tenho 29 anos e atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Também sou gamer e ja fui criador de conteudo na Twitch, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, marketing, capacidade analítica, gestão de comunidades e mídias sociais.
 
-  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes, animes, jogar e praticar esportes! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 
