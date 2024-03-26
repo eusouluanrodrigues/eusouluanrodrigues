@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, sou o Luan Rodrigues! Um apaixonado estudante por tecnologias.
+  Olá 👋, sou Luan Rodrigues!
 
-  - 🌱 Atualmente estou estudando Python | HTML | CSS | JS.
+  - 🌱 Atualmente estou estudando Data Analyst | Python | Web Developer | HTML | CSS | JS
   - 🔭 Estou em busca de conhecimento.
 </p>
 
